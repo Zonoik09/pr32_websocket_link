@@ -1,0 +1,140 @@
+{"level":"info","message":"Conexión establecida con MongoDB en mongodb://localhost:27017, base de datos: gameData","service":"websocket-game-server","timestamp":"2025-05-14 18:35:17"}
+{"level":"info","message":"Servidor WebSocket iniciado correctamente en el puerto 1234","service":"websocket-game-server","timestamp":"2025-05-14 18:35:17"}
+{"level":"info","message":"Nuevo cliente conectado: 25c46650-7a8e-4932-bc95-bfb76b33b0a4","service":"websocket-game-server","timestamp":"2025-05-14 18:35:20"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: up","service":"websocket-game-server","timestamp":"2025-05-14 18:35:22"}
+{"level":"info","message":"Inicio de nueva partida. Juego: G_1747240522924_25c4, Cliente: 25c46650-7a8e-4932-bc95-bfb76b33b0a4, Posición inicial: (0,0)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (0, 1)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:22"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: left","service":"websocket-game-server","timestamp":"2025-05-14 18:35:23"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, 1)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:23"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:23"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, 0)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:23"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -1)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -2)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -3)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -4)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -5)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -6)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -7)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -8)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -9)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:24"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (-1, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (0, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (1, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (2, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (3, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (4, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (5, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (6, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (7, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (8, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (9, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -10)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:25"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -11)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -12)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -13)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -14)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -15)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -16)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -17)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -18)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -19)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -20)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -21)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -22)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -23)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:26"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -24)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -25)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -26)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: down","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (10, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (11, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:27"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (12, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (13, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (14, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (15, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (16, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (17, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (18, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (19, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (20, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (21, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (22, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (23, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (24, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (25, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (26, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (27, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (28, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:28"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (29, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (30, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (31, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (32, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (33, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (34, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Comando recibido de cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: right","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"info","message":"Posición actualizada enviada al cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4: (35, -27)","service":"websocket-game-server","timestamp":"2025-05-14 18:35:29"}
+{"level":"warn","message":"Se detectó inactividad en el cliente 25c46650-7a8e-4932-bc95-bfb76b33b0a4. Finalizando partida.","service":"websocket-game-server","timestamp":"2025-05-14 18:35:39"}
+{"level":"info","message":"Partida finalizada por inactividad. Juego: G_1747240522924_25c4, Cliente: 25c46650-7a8e-4932-bc95-bfb76b33b0a4. Posición inicial: (0,0), final: (35,-27), distancia: 44.20","service":"websocket-game-server","timestamp":"2025-05-14 18:35:39"}
+{"level":"info","message":"Cliente desconectado: 25c46650-7a8e-4932-bc95-bfb76b33b0a4","service":"websocket-game-server","timestamp":"2025-05-14 18:35:49"}
+{"level":"info","message":"Se recibió la señal SIGINT. Cerrando el servidor...","service":"websocket-game-server","timestamp":"2025-05-14 18:35:54"}
