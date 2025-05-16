@@ -138,3 +138,597 @@
 {"level":"info","message":"Partida finalizada por inactividad. Juego: G_1747240522924_25c4, Cliente: 25c46650-7a8e-4932-bc95-bfb76b33b0a4. Posición inicial: (0,0), final: (35,-27), distancia: 44.20","service":"websocket-game-server","timestamp":"2025-05-14 18:35:39"}
 {"level":"info","message":"Cliente desconectado: 25c46650-7a8e-4932-bc95-bfb76b33b0a4","service":"websocket-game-server","timestamp":"2025-05-14 18:35:49"}
 {"level":"info","message":"Se recibió la señal SIGINT. Cerrando el servidor...","service":"websocket-game-server","timestamp":"2025-05-14 18:35:54"}
+{"level":"info","message":"Conexión establecida con MongoDB en mongodb://localhost:27017, base de datos: gameData","service":"websocket-game-server","timestamp":"2025-05-15 17:28:56"}
+{"level":"info","message":"Servidor WebSocket iniciado correctamente en el puerto 1234","service":"websocket-game-server","timestamp":"2025-05-15 17:28:56"}
+{"level":"info","message":"Nuevo cliente conectado: a15b0b15-c095-4f2f-b800-069a2bfd6b5c","service":"websocket-game-server","timestamp":"2025-05-15 17:29:02"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:04"}
+{"level":"info","message":"Inicio de nueva partida. Juego: G_1747322944464_a15b, Cliente: a15b0b15-c095-4f2f-b800-069a2bfd6b5c, Posición inicial: (0,0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:04"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (1, 0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:04"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:04"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (2, 0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:04"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (3, 0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (4, 0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (5, 0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (6, 0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, 0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:05"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: down","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: up","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, 0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: up","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, 1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: up","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, 2)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: up","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, 3)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: up","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, 4)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: up","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, 5)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:06"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: up","service":"websocket-game-server","timestamp":"2025-05-15 17:29:07"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, 6)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:07"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: up","service":"websocket-game-server","timestamp":"2025-05-15 17:29:07"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:07"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: left","service":"websocket-game-server","timestamp":"2025-05-15 17:29:07"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (6, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:07"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: left","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (5, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: left","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (4, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: left","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (3, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: left","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (2, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: left","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (1, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: left","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (0, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: left","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-1, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:08"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: left","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-2, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: down","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-2, 6)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: down","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-2, 5)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: down","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-2, 4)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: down","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-2, 3)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:09"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: down","service":"websocket-game-server","timestamp":"2025-05-15 17:29:10"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-2, 2)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:10"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: down","service":"websocket-game-server","timestamp":"2025-05-15 17:29:10"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-2, 1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:10"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: down","service":"websocket-game-server","timestamp":"2025-05-15 17:29:10"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-2, 0)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:10"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: down","service":"websocket-game-server","timestamp":"2025-05-15 17:29:10"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-2, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:10"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (-1, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (0, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (1, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (2, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (3, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:11"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:12"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (4, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:12"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:12"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (5, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:12"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:12"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (6, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:12"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:12"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (7, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:12"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:13"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (8, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:13"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:13"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (9, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:13"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:13"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (10, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:13"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:13"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (11, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:13"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:14"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (12, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:14"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:14"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (13, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:14"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (14, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:15"}
+{"level":"info","message":"Comando recibido de cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: right","service":"websocket-game-server","timestamp":"2025-05-15 17:29:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c: (15, -1)","service":"websocket-game-server","timestamp":"2025-05-15 17:29:15"}
+{"level":"warn","message":"Se detectó inactividad en el cliente a15b0b15-c095-4f2f-b800-069a2bfd6b5c. Finalizando partida.","service":"websocket-game-server","timestamp":"2025-05-15 17:29:25"}
+{"level":"info","message":"Partida finalizada por inactividad. Juego: G_1747322944464_a15b, Cliente: a15b0b15-c095-4f2f-b800-069a2bfd6b5c. Posición inicial: (0,0), final: (15,-1), distancia: 15.03","service":"websocket-game-server","timestamp":"2025-05-15 17:29:25"}
+{"level":"info","message":"Cliente desconectado: a15b0b15-c095-4f2f-b800-069a2bfd6b5c","service":"websocket-game-server","timestamp":"2025-05-15 17:30:09"}
+{"level":"info","message":"Nuevo cliente conectado: 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9","service":"websocket-game-server","timestamp":"2025-05-15 17:30:11"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:14"}
+{"level":"info","message":"Inicio de nueva partida. Juego: G_1747323014688_00f1, Cliente: 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9, Posición inicial: (0,0)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:14"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 1)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:14"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:14"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 2)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:14"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 3)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 4)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 5)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 6)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 7)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 8)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 9)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 10)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 11)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 12)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 13)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 14)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 15)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 16)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: up","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-1, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:15"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-2, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-3, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-4, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-5, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-6, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-7, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-8, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-9, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-10, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-11, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-12, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-13, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-14, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-15, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-16, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-17, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-18, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-19, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-20, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:16"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-21, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-22, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-23, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-24, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-25, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: left","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-26, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-25, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-24, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-23, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-22, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:17"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-21, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-20, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-19, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-18, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-17, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-16, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-15, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-14, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-13, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-12, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-11, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-10, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-9, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-8, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-7, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-6, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-5, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:18"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-4, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-3, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-2, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (-1, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (0, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (1, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (2, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (3, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (4, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (5, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (6, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (7, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (8, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (9, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (10, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (11, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (12, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (13, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (14, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (15, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (16, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (17, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (18, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (19, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (20, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (21, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (22, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (23, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (24, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (25, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (26, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:19"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (27, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (28, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (29, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (30, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (31, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (32, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (33, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (34, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (35, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (36, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (37, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (38, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (39, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (40, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (41, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (42, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (43, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (44, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (45, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (46, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (47, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (48, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (49, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (50, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (51, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (52, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (53, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (54, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (55, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (56, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:20"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (57, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (58, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (59, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (60, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (61, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (62, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (63, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (64, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (65, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (66, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (67, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (68, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (69, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (70, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (71, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (72, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (73, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (74, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (75, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (76, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (77, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (78, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (79, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (80, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (81, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (82, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (83, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (84, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (85, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (86, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (87, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:21"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (88, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (89, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (90, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (91, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (92, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (93, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (94, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (95, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Comando recibido de cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: right","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"info","message":"Posición actualizada enviada al cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9: (96, 17)","service":"websocket-game-server","timestamp":"2025-05-15 17:30:22"}
+{"level":"warn","message":"Se detectó inactividad en el cliente 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9. Finalizando partida.","service":"websocket-game-server","timestamp":"2025-05-15 17:30:32"}
+{"level":"info","message":"Partida finalizada por inactividad. Juego: G_1747323014688_00f1, Cliente: 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9. Posición inicial: (0,0), final: (96,17), distancia: 97.49","service":"websocket-game-server","timestamp":"2025-05-15 17:30:32"}
+{"level":"info","message":"Cliente desconectado: 00f1ce6d-9557-49c0-a6cd-a6a6c2b5bad9","service":"websocket-game-server","timestamp":"2025-05-15 17:30:44"}
+{"level":"info","message":"Conexión establecida con MongoDB en mongodb://localhost:27017, base de datos: gameData","service":"websocket-game-server","timestamp":"2025-05-15 18:41:22"}
+{"level":"info","message":"Servidor WebSocket iniciado correctamente en el puerto 1234","service":"websocket-game-server","timestamp":"2025-05-15 18:41:22"}
+{"level":"info","message":"Nuevo cliente conectado: 3bfcca6b-ab2b-4523-8687-70729f08a74e","service":"websocket-game-server","timestamp":"2025-05-15 18:41:28"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"info","message":"Inicio de nueva partida. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e, Posición inicial: (0,0)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (0, 1)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (0, 2)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (0, 3)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:30"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:31"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:31"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (0, 4)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:31"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:31"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:31"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (0, 5)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:31"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:31"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:31"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (0, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:31"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: left","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-1, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: left","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-2, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: left","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-3, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: left","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-4, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: left","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-5, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: left","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-6, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: left","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-7, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: left","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-8, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: left","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 6)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:32"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 7)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 8)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 9)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 10)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:33"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 11)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 12)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 13)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 14)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 15)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 16)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 17)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 18)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 19)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 20)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 21)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 22)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-9, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-8, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:34"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-7, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-6, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-5, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-4, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-3, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-2, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (-1, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (0, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (1, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (2, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (3, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (4, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (5, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: right","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (6, 23)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:35"}
+{"level":"warn","message":"Se detectó inactividad en el cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e. Finalizando partida.","service":"websocket-game-server","timestamp":"2025-05-15 18:41:45"}
+{"level":"info","message":"Partida finalizada por inactividad. Juego: G_1747327290382_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e. Posición inicial: (0,0), final: (6,23), distancia: 23.77","service":"websocket-game-server","timestamp":"2025-05-15 18:41:45"}
+{"level":"info","message":"Comando recibido de cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: up","service":"websocket-game-server","timestamp":"2025-05-15 18:41:50"}
+{"level":"info","message":"Inicio de nueva partida. Juego: G_1747327310719_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e, Posición inicial: (0,0)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:50"}
+{"level":"error","message":"Error al guardar el movimiento en la base de datos. Juego: G_1747327310719_3bfc, Cliente: 3bfcca6b-ab2b-4523-8687-70729f08a74e: MongoServerError: Command insert requires authentication","service":"websocket-game-server","timestamp":"2025-05-15 18:41:50"}
+{"level":"info","message":"Posición actualizada enviada al cliente 3bfcca6b-ab2b-4523-8687-70729f08a74e: (0, 1)","service":"websocket-game-server","timestamp":"2025-05-15 18:41:50"}
+{"level":"info","message":"Cliente desconectado: 3bfcca6b-ab2b-4523-8687-70729f08a74e","service":"websocket-game-server","timestamp":"2025-05-15 18:41:52"}

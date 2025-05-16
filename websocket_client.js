@@ -8,12 +8,12 @@ let currentPosition = { x: 0, y: 0 };
 
 function displayPosition() {
     process.stdout.write('\r' + ' '.repeat(process.stdout.columns) + '\r');
-    process.stdout.write(`📍 Posició actual: (${currentPosition.x}, ${currentPosition.y}) | Mou-te amb les fletxes | Sortir: 'q' `);
+    process.stdout.write(`Posición actual: (${currentPosition.x}, ${currentPosition.y}) | Muevete con las flechas | Sortir: 'q' `);
 }
 
 ws.on('open', () => {
-    console.log('✅ Connexió establerta amb el servidor WebSocket.');
-    console.log('🎮 Controls actius: Utilitza les tecles de fletxa per moure\'t. Premeu "q" per sortir.');
+    console.log('Connexión establecida con el servidor WebSocket.');
+    console.log('Controles activos: Utilitza las teclas de flechas para moverte\'t. pulsa "q" para salir.');
     
     readline.emitKeypressEvents(process.stdin);
     if (process.stdin.isTTY) {
@@ -22,7 +22,7 @@ ws.on('open', () => {
 
     process.stdin.on('keypress', (str, key) => {
         if (key.name === 'q') {
-            console.log("\n👋 Has sortit del joc.");
+            console.log("\n👋 Has salido del juego.");
             ws.close();
             return;
         }
@@ -37,10 +37,10 @@ ws.on('open', () => {
 
         if (command) {
             try {
-                console.log(`🚀 Comanda enviada: ${command}`);
+                console.log(`Comando enviado ${command}`);
                 ws.send(JSON.stringify({ command }));
             } catch (error) {
-                console.error('⚠️ Error en enviar la comanda:', error);
+                console.error('Error:', error);
             }
         } else {
             displayPosition();
@@ -55,7 +55,7 @@ ws.on('message', (message) => {
 
         switch (data.type) {
             case 'initialState':
-                console.log('📦 Estat inicial rebut.');
+                console.log('Estado inicial recibido.');
                 currentPosition.x = data.x;
                 currentPosition.y = data.y;
                 break;
@@ -64,20 +64,20 @@ ws.on('message', (message) => {
                 currentPosition.y = data.y;
                 break;
             case 'gameOver':
-                console.log(`\n🏁 PARTIDA FINALITZADA (ID: ${data.gameId})`);
-                console.log(`📏 Distància recorreguda: ${data.distance}`);
-                console.log(`⏱️ Durada: ${new Date(data.startTime).toLocaleTimeString()} - ${new Date(data.endTime).toLocaleTimeString()}`);
-                console.log('🔁 Mou-te per iniciar una nova partida.');
+                console.log(`\nPARTIDA FINALIZADA (ID: ${data.gameId})`);
+                console.log(`Distancia recorrida: ${data.distance}`);
+                console.log(`Duración: ${new Date(data.startTime).toLocaleTimeString()} - ${new Date(data.endTime).toLocaleTimeString()}`);
+                console.log('Muevete para iniciar una nueva partida');
                 break;
             case 'error':
-                console.warn(`⚠️ Error del servidor: ${data.message}`);
+                console.warn(`Error: ${data.message}`);
                 break;
             default:
-                console.log('❓ Missatge no reconegut:', data);
+                console.log('Mensaje no reconocido:', data);
         }
     } catch (error) {
-        console.error('💥 Error processant missatge del servidor:', error);
-        console.log('📨 Missatge rebut (raw):', message.toString());
+        console.error('Error:', error);
+        console.log('Mensaje recibido (raw):', message.toString());
     }
     displayPosition();
 });
@@ -88,7 +88,7 @@ ws.on('close', (code, reason) => {
             process.stdin.setRawMode(false);
         }
     } catch (e) {}
-    console.log(`\n🔒 Connexió tancada. Codi: ${code}. Motiu: ${reason?.toString() || 'no especificat'}`);
+    console.log(`\nConexion cerrada. Codigo: ${code}. Motivo: ${reason?.toString() || 'no especificado'}`);
     process.exit(0);
 });
 
@@ -98,14 +98,14 @@ ws.on('error', (error) => {
             process.stdin.setRawMode(false);
         }
     } catch (e) {}
-    console.error('❌ Error de WebSocket:', error.message);
+    console.error('Error de WebSocket:', error.message);
     if (error.code === 'ECONNREFUSED') {
-        console.error(`🚫 No s'ha pogut establir connexió amb ${SERVER_URL}. Assegura’t que el servidor està en funcionament.`);
+        console.error(`No se ha establecido la conexion al servidor ${SERVER_URL}.`);
     }
     process.exit(1);
 });
 
 process.on('SIGINT', () => {
-    console.log('\n🛑 Interrupció manual rebuda (SIGINT). Tancant connexió...');
+    console.log('\nInterrupción manual recibida (SIGINT). cerrando conexión...');
     ws.close();
 });
